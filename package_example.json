@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "devDependencies": {
+    "matchdep": "~0.3.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-express": "~1.2.1",
+    "grunt-open": "~0.2.2",
+    "grunt-contrib-less": "~0.8.3",
+    "grunt-processhtml": "~0.2.6",
+    "grunt-spritesmith": "~1.19.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-requirejs": "~0.4.1",
+    "grunt-contrib-handlebars": "~0.6.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-replace": "~0.5.1",
+    "grunt-google-closure-linter": "*",
+    "grunt-contrib-imagemin": "~0.4.0"
+  }
+}
